@@ -1,2 +1,2 @@
-email :
-gitID :
+email : joyful45@paran.com
+gitID : chojs23
