@@ -1,2 +1,2 @@
-email :
-gitID :
+email : chojs23@gmail.com 
+gitID : chojs23
